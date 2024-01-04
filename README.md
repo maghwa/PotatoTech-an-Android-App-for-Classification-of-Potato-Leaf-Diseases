@@ -1,0 +1,1 @@
+# PotatoTech-an-Android-App-for-Classification-of-Potato-Leaf-Diseases
